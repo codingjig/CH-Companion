@@ -14,6 +14,10 @@ Step - 2
 - c) Click on Load Unpacked
 - d) Choose the folder (Only manifest.json is required for this extension to work)
 
+You have change video with this extension 
+
+![ch-companion-2-min](https://user-images.githubusercontent.com/62597848/91890971-dbd6b480-ecad-11ea-834c-dbb65ad8569a.gif)
+
 I created this extension to save my CH course progress like this
 
 ![course-progress2](https://user-images.githubusercontent.com/62597848/91647812-ba42b680-ea7c-11ea-8cdf-6e423b971db6.jpg)
